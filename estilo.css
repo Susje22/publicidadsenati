@@ -1,7 +1,9 @@
 
 .titulo { 
     text-shadow: 2px 2px 5px gray;
-    white-space: pre-wrap; }
+    white-space: pre-wrap;
+    /*---MODIFICADO POR---*/
+}
 
 .contenedor{
     background-color: aquamarine;
@@ -9,6 +11,13 @@
     height: 500px;
     margin: auto;
     border-radius: 10px;
+    padding: 20px;
+}
 
-    
+body{
+    background-color: bisque;
+}
+
+*{
+    font-family: Arial, Helvetica, sans-serif;
 }
