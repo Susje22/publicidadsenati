@@ -1,7 +1,10 @@
 
 .titulo { 
     text-shadow: 2px 2px 5px gray;
-    white-space: pre-wrap; }
+    white-space: pre-wrap;
+    /*----modificado por jesus--*/
+    color: rgb(38, 78, 65);
+ }
 
 .contenedor{
     background-color: aquamarine;
