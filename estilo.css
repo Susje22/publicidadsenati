@@ -1,4 +1,14 @@
+
 .titulo { 
     text-shadow: 2px 2px 5px gray;
-    white-space: pre-wrap;
+    white-space: pre-wrap; }
+
+.contenedor{
+    background-color: aquamarine;
+    width: 70%;
+    height: 500px;
+    margin: auto;
+    border-radius: 10px;
+
+    
 }
