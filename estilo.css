@@ -2,6 +2,7 @@
 .titulo { 
     text-shadow: 2px 2px 5px gray;
     white-space: pre-wrap;
+    text-align: center; /*--- MODIFICADO POR XIMENA ---*/
     /*----modificado por jesus--*/
     color: rgb(38, 78, 65);
  }
@@ -12,6 +13,13 @@
     height: 500px;
     margin: auto;
     border-radius: 10px;
+    padding: 20px;
+}
 
-    
+body{
+    background-color: bisque;
+}
+
+*{
+    font-family: Arial, Helvetica, sans-serif;
 }
